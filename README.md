@@ -19,14 +19,13 @@ Outil de Restitution : Power BI Desktop (.pbix)
 
 📊 3. Structure du Tableau de Bord (6 Pages)
 
-Le rapport Power BI se compose de 5 onglets thématiques :
+Le rapport Power BI se compose de 6 onglets thématiques :
 
 Caractéristiques : Vue d'ensemble de la volumétrie des stations et répartition de l'offre technique (types de prises, puissances).
 Cartographie : Représentation géographique interactive des points de charge sur le territoire parisien.
 Clusters : Corrélation entre le taux d'occupation et la puissance moyenne des points de recharge
 KPIs Opérationnels : Suivi de la disponibilité globale, taux d'indisponibilité et identification des bornes en panne ou maintenance.
-Utilisations (1/2) : Analyse de la répartition de l'usage et de la charge à l'instant 
-T (initialisé à 12h00).
+Utilisations (1/2) : Analyse de la répartition de l'usage et de la charge à l'instant T (initialisé à 12h00).
 Utilisations (2/2) : Analyse temporelle et comparative de la tension du réseau grâce aux snapshots journaliers (8h00, 15h00, 17h00).
 
 ⚙️ 4. Guide d'Installation et de Reproductibilité
